@@ -1,0 +1,19 @@
+dependencies:
+  - jupyter
+  - ipykernel
+  - planet
+  - rasterio
+  - fiona
+  - matplotlib
+  - humanize
+  - ipyleaflet
+  - ipyleaflet
+  - ipywidgets
+  - ipyvolume
+  - altair
+  - vega_datasets
+  - bqplot
+  - nbdime
+  - palettable
+  - earthengine-api
+  - folium
