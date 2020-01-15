@@ -1,5 +1,8 @@
 # Planet training workshop
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samapriya/training-workshop/master)
+
+
 This repo contains all materials used on Planet's training workshops. 
 Below you will find environment set up instructions, decks and other learning resources to have you started on using Planet's APIs and tools.
 
