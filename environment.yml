@@ -2,8 +2,18 @@ dependencies:
   - jupyter
   - ipykernel
   - planet
+  - requests
+  - numpy
+  - geojson
+  - pandas
+  - geopandas
   - rasterio
   - fiona
+  - geojsonio
+  - shapely
+  - mercantile
+  - scikit-image
+  - scikit-learn
   - matplotlib
   - humanize
   - ipyleaflet
